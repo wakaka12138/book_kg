@@ -4,6 +4,6 @@
 《计算机科学概论》（第12版） 第二章：数据操控
 ## 知识图谱全局样例
 <p align="center">
-  < img width="640" height="400" src="/IMG/view.png">
+  <img width="640" height="400" src="/IMG/view.png">
 </p >
 
