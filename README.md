@@ -3,6 +3,7 @@
 ## 数据来源
 《计算机科学概论》（第12版） 第二章：数据操控
 ## 知识图谱全局样例
-<p align="center">
-  < img width="640" height="400" src="/book_kg/IMG/全局.png">
-</p>
+<div align="center">
+  <img src="https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png">
+</div>
+
