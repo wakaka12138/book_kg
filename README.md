@@ -6,16 +6,19 @@
 <p align="center">
   <img width="650" height="600" src="/IMG/view.png">
 </p >
-## 知识图谱局部样例
+
+## 知识图谱全局样例
 <p align="center">
   <img width="650" height="600" src="/IMG/part-view.png">
 </p >
+
 ## 知识图谱层级组织样例
 <p align="center">
   <img width="650" height="600" src="/IMG/level-view.png">
 </p >
+
 ## 知识图谱节点信息样例
 <p align="center">
-  <img width="150" height="150" src="/IMG/node_information.png">
+  <img width="400" height="400" src="/IMG/node_information.png">
 </p >
 
